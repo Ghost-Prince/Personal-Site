@@ -1,0 +1,103 @@
+.top {
+    background-color: #EAF6F6; /*#D7E9B9;/*#B3FFAE;/*#E5E0FF; /*#FFFFE8;*/
+    text-align: center;
+}
+body {
+    background-color: white;
+    margin: 0;
+}
+.top-cloud {
+    margin-left: 55%;
+    margin-top: 30px;
+}
+.bottom-cloud {
+    margin-right: 35%;
+}
+.name {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    /*padding-bottom: 30px;*/
+    color: #658864;/*#66BFBF;*/
+    padding-top: 20px;
+    margin: 0;
+}
+.profile-picture {
+    height: 250px;
+    width: 250px;
+}
+div {
+    text-align: center;
+}
+.coding-gif {
+    margin-top: 0;
+    padding-top: 0;
+    width: 30%;
+    border-radius: 100%;
+}
+.developer-gif {
+    border-radius: 100%;
+    width: 30%;
+}
+.skills {
+    margin-top: 0;
+}
+.skill-row-1 {
+    background-color: #FFF6BD;/*#B3FFAE;*/
+    /*width: 50%;*/
+    /*margin: 10px auto 100px auto;*/
+    padding-bottom: 20px;
+    line-height: 2;
+}
+.skill-row-2 {
+    background-color: #CEEDC7;
+    /*width: 50%;*/
+    /*margin: 100px auto 100px auto;*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 2;
+}
+.contact-me {
+    background-color: #D7E9B9;
+    padding-top: 20px;
+}
+.bottom {
+    background-color: #D7E9B9;
+}
+.profile {
+    background-color: #CDF2CA; /*#A8D1D1;*/
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+hr {
+    padding: 0;
+    margin: 0;
+}
+.social {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 15px;
+    padding-bottom: 0;
+}
+.mountain {
+    padding-bottom: 20px;
+}
+.bio {
+    font-size: 1.5rem;
+    padding-top: 0;
+    margin-top: 0;
+}
+h2 {
+    color: #658864;/*#66BFBF;*/
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+}
